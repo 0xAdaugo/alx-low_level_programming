@@ -5,7 +5,6 @@
  * @s: The input string.
  *
  * Return: 0(success).
- * writttenby:0xAdaugo
  */
 
 void _puts_recursion(char *s)
